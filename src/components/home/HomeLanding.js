@@ -6,6 +6,7 @@ import HomeHero from "./HomeHero";
 import FiveImages from "./FiveImages";
 import OurStory from "./OurStory";
 import Handshake from "./Handshake";
+import OurTeam from "./OurTeam";
 
 export default function HomeLanding() {
     return (
@@ -17,8 +18,9 @@ export default function HomeLanding() {
 
             <OurStory />
             <Handshake />
+            <OurTeam />
 
-            
+
             <Footer />
         </>
     );
