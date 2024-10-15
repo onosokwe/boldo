@@ -14,10 +14,10 @@ function Header() {
 
                     <nav id="navbar" className="navbar">
                         <ul>
-                            <li><a href="/product"><span>Product</span></a></li>
-                            <li><a href="/services"><span>Services</span></a></li>
-                            <li><a href="/about"><span>About Us</span></a></li>
-                            <li><a href="/demo" className="btn"><span>Log In</span></a></li>
+                            <li><a href="/"><span>Product</span></a></li>
+                            <li><a href="/"><span>Services</span></a></li>
+                            <li><a href="/"><span>About Us</span></a></li>
+                            <li><a href="/" className="btn"><span>Log In</span></a></li>
                         </ul>
                     </nav>
 
