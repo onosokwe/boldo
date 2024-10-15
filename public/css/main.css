@@ -282,7 +282,7 @@ section {
     color:#0A2640; 
     font-weight: 700;
     text-align:center !important;
-    padding: 10px 40px; 
+    padding: 6px 40px; 
     border-radius:25px; 
     margin:20px;
   }
@@ -1927,6 +1927,14 @@ section {
   .footer .footer-cta .btn {
     width: 170px;
   }
+}
+
+@media(max-width:768px){
+  
+.footer .footer-cta {
+  background-color: #0a2640;
+  padding: 60px 0;
+}
 }
 
 
