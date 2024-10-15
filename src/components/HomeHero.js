@@ -1,5 +1,4 @@
 import React from "react";
-import homebg from "../../assets/img/home_desktop.webp";
 
 function HomeHero() {
     return (

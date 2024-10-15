@@ -1,12 +1,13 @@
 import React from "react";
-import Header from "../Header";
-import Footer from "../Footer";
+import Header from "./inc/Header";
+import Footer from "./inc/Footer";
 
 import HomeHero from "./HomeHero";
 import FiveImages from "./FiveImages";
 import OurStory from "./OurStory";
-import Handshake from "./Handshake";
+import OurNumbers from "./OurNumbers";
 import OurTeam from "./OurTeam";
+import OurValues from "./OurValues";
 
 export default function HomeLanding() {
     return (
@@ -17,8 +18,9 @@ export default function HomeLanding() {
 
 
             <OurStory />
-            <Handshake />
+            <OurNumbers />
             <OurTeam />
+            <OurValues />
 
 
             <Footer />

@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Handshake() {
+export default function OurNumbers() {
     
     return (
         <section className="handshakes">

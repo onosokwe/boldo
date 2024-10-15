@@ -1,9 +1,9 @@
 import React from "react";
-import image_1 from "../../assets/img/image_1.jpeg";
-import image_2 from "../../assets/img/image_2.png";
-import image_3 from "../../assets/img/image_3.jpeg";
-import image_4 from "../../assets/img/image_4.png";
-import image_5 from "../../assets/img/image_5.jpeg";
+import image_1 from "../assets/image_1.jpeg";
+import image_2 from "../assets/image_2.png";
+import image_3 from "../assets/image_3.jpeg";
+import image_4 from "../assets/image_4.png";
+import image_5 from "../assets/image_5.jpeg";
 
 
 export default function FiveImages() {

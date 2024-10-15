@@ -1,11 +1,7 @@
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 // load components
-import HomeLanding from "./components/home/HomeLanding";
-
-import "./App.css";
-import "react-alice-carousel/lib/alice-carousel.css";
-import "react-multi-carousel/lib/styles.css";
+import HomeLanding from "./components/index";
 
 function App() {
   return (

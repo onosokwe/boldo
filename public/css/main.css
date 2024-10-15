@@ -2667,7 +2667,8 @@ section {
 
 /* team */
 .team-highlights {
-  padding: 0 160px;
+  padding: 0 200px;
+  padding-bottom: 60px;
 }
 .team-highlights .highlights {
   color: #262a2e;
@@ -2675,10 +2676,20 @@ section {
   border-radius: 9px;
 }
 .team-highlights .highlights h2 {
-  color:#262a2e;
-  text-transform: uppercase;
-  font-weight: bold;
-  font-size: 22px;
+  color:#000;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 28px;
+  line-height: 48px;
+}
+.team-highlights .highlights p {
+  color:#777;
+  font-weight: 400;
+  text-align: left;
+  margin-left: 20px;
+  font-size: 20px;
+  line-height: 32px;
 }
 .team-highlights .highlight-image {
   border-radius: 12px; 
@@ -2712,3 +2723,75 @@ section {
   }
 }
 
+
+
+
+/* our-values */
+.our-values {
+  padding: 60px 0; 
+  text-align: left; 
+  margin-top: 0px;
+  color: #fff; 
+  background-color: #0a2640;
+  font-family: var(--font-primary);
+}
+.our-values .value-box {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: left;
+}
+.our-values h3 { 
+  font-size: 20px; 
+  font-weight: 400; 
+  line-height: 32px; 
+  margin-top: 20px;
+}
+
+.our-values h1 {
+  margin:0; 
+  padding:0; 
+  font-weight: 400; 
+  font-size:48px; 
+  line-height:72px; 
+  margin-top: 20px;
+  margin-bottom: 30px; 
+  color:#fff; 
+  width: 100%;
+}
+
+.our-values p {
+  color:#fff;
+  font-weight: 400;
+  text-align: left;
+  font-size: 20px;
+  line-height: 32px;
+}
+
+.our-values .values {
+  margin: 50px 0;
+}
+.our-values .highlights {
+  color: #fff;
+  text-align: left;
+  border-radius: 9px;
+}
+.our-values .values h5 {
+  color:#fff;
+  font-weight: 400;
+  text-align: left;
+  font-size: 28px;
+  line-height: 48px;
+}
+.our-values .highlight-image {
+  border-radius: 12px; 
+  height: 151px; 
+  max-width: 150px;
+  background-size: cover; 
+  background-position: center; 
+  margin-top: 0; 
+  background-repeat: no-repeat;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  position:relative;
+  padding: 0;
+  transition: 0.4s all ease-in-out;
+}
