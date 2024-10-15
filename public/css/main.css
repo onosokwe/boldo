@@ -277,7 +277,16 @@ section {
     margin-left: 10px;
     font-size: 15px;
   }
-
+  .navbar a.btn {
+    background-color:#fff; 
+    color:#444; 
+    width: 90px; 
+    text-align:center;
+    padding: 10px; 
+    border-radius:25px; 
+    margin:20px;
+  }
+  
   .navbar .dropdown span {
     /* letter-spacing: 2px; */
     font-size: 15px;
@@ -414,7 +423,7 @@ section {
     font-family: var(--font-primary);
     font-size: 15px;
     font-weight: 600;
-    color: var(--color-primary);
+    color: var(--color-black);
     white-space: nowrap;
     transition: 0.3s;
   }
@@ -430,7 +439,8 @@ section {
   .navbar .active,
   .navbar .active:focus,
   .navbar li:hover>a {
-    color: var(--color-primary);
+    color: var(--color-black);
+    color: #777;
   }
 
   .navbar .dropdown ul,

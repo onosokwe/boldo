@@ -17,8 +17,7 @@ function Header() {
                             <li><a href="/product"><span>Product</span></a></li>
                             <li><a href="/services"><span>Services</span></a></li>
                             <li><a href="/about"><span>About Us</span></a></li>
-                            <li><a href="/demo" style={{backgroundColor:'#fff', color:'#444', width: 90, 
-                                textAlign:'center', padding: 10, borderRadius:25, margin:20}}><span>Log In</span></a></li>
+                            <li><a href="/demo" className="btn"><span>Log In</span></a></li>
                         </ul>
                     </nav>
 
