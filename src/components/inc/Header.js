@@ -12,7 +12,7 @@ function Header() {
                         <img className="logo" src={logo} alt="logo" style={{height: 25}}  />
                     </a>
 
-                    <nav id="navbar" className="navbar">
+                    <nav id="navbar" className="navbar ms-auto">
                         <ul>
                             <li><a href="/"><span>Product</span></a></li>
                             <li><a href="/"><span>Services</span></a></li>
@@ -26,8 +26,8 @@ function Header() {
                     </div>
 
                 </div>
-
             </header>
+
         </>
     );
 }
