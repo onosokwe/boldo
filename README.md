@@ -28,7 +28,6 @@ To start local dev server, type in the following command in your terminal:
 ```npm start```
 
 The application should now be accessible on [http://localhost:3034](http://localhost:3034)
-You can choose the other dependencies you'll need(e.g. DB library)
 
 ## Send us your repo!
 After finishing all tasks, reply the mail that sent you this repo with a link your repo and a preview link (e.g. Vercel/netlify).
