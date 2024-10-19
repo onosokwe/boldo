@@ -17,10 +17,6 @@ export default function Footer() {
                 </div>
             </div>
             
-            
-            
-            
-            
             <div className="footer-content">
                 <div className="container">
 
@@ -62,8 +58,8 @@ export default function Footer() {
                     </div>
 
                     <div className="copyright">
-                                All Rights Reserved
-                            </div>
+                        All Rights Reserved
+                    </div>
                 </div>
             </div>
         </footer> 

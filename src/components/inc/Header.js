@@ -8,7 +8,6 @@ function Header() {
                 <div className="container-fluid container-xl d-flex align-items-center justify-content-between">
 
                     <a href="/" className="d-flex align-items-center">
-                        {/* <h1 style={{fontWeight:'bold', margin:10}}>Humanely</h1> */}
                         <img className="logo" src={logo} alt="logo" style={{height: 25}}  />
                     </a>
 
