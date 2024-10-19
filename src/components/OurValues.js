@@ -1,4 +1,5 @@
 import React from "react";
+
 import value_1 from "../assets/value_1.png";
 import value_2 from "../assets/value_2.png";
 import value_3 from "../assets/value_3.png";

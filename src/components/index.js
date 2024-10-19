@@ -16,12 +16,10 @@ export default function HomeLanding() {
             <HomeHero />
             <FiveImages />
 
-
             <OurStory />
             <OurNumbers />
             <OurTeam />
             <OurValues />
-
 
             <Footer />
         </>
